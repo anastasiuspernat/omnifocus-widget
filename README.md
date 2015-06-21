@@ -1,4 +1,4 @@
-# Übersicht OmniFocus Task Widget
+# Übersicht OmniFocus Due/Past Due Task Widget
 OmniFocus Flagged Due/Past Due Task Widget - Made for [Übersicht](http://tracesof.net/uebersicht/)
 
 This is a fork of original [flagged task](https://github.com/fitzagard/omnifocus-widget) widget meant to display due and past due tasks instead of flagged ones.
